@@ -1,11 +1,11 @@
 {
   "server_name": "Fimot",
   "description": "Cliente oficial do Fimot - atualizacoes automaticas.",
-  "current_version": "1.0.8",
+  "current_version": "1.0.10",
   "github_username": "fimot",
   "github_repository": "public-client",
   "client_zip_filename": "tibia-client.zip",
-  "release_tag": "v1.0.8",
+  "release_tag": "v1.0.10",
   "enable_auto_update": true,
   "auto_install_updates": false,
   "protected_folders": [
@@ -13,5 +13,6 @@
     "conf",
     "characterdata",
     "screenshots"
-  ]
+  ],
+  "client_zip_filename_windows": "tibia-client-windows.zip"
 }
